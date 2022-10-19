@@ -1,4 +1,4 @@
-# Comenzamos nuestra modificación
+# Comenzamos nuestra modificación Rama 2
 # Learn `git` concepts, not commands
 
 **An interactive git tutorial meant to teach you how git works, not just which commands to execute.**
