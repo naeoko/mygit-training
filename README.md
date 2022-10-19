@@ -1,3 +1,4 @@
+# Comenzamos nuestra modificación
 # Learn `git` concepts, not commands
 
 **An interactive git tutorial meant to teach you how git works, not just which commands to execute.**
@@ -10,6 +11,7 @@ Then this is meant for you!
 
 Let's get started!
 
+INICIO DEL RECUADRO PARA ESTE TEXTO
 ---
 
 > Based on the general concept from Rachel M. Carmena's blog post on [How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html).
@@ -19,6 +21,7 @@ Let's get started!
 > So if you're still interested when you're done here, go check those out! I do hope the somewhat different concept of this tutorial will aid you in understanding all the other git features detailed there.
 
 ---
+- AQUI VEMOS COMO UN - HACE ENLACES REDIRIGIDOS 
 - [Overview](#overview)
 - [Getting a _Remote Repository_](#getting-a-_remote-repository_)
     - [Adding new things](#adding-new-things)
